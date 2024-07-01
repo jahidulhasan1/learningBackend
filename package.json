@@ -1,0 +1,24 @@
+{
+  "name": "learnbackend",
+  "version": "1.0.0",
+  "description": "Learning backend with nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jahidulhasan1/learningBackend.git"
+  },
+  "keywords": [
+    "backend",
+    "nodejs",
+    "mongDb"
+  ],
+  "author": "Jahidul hasan rafi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jahidulhasan1/learningBackend/issues"
+  },
+  "homepage": "https://github.com/jahidulhasan1/learningBackend#readme"
+}
